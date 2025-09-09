@@ -5,7 +5,7 @@ Este projeto é um exercício em **HTML e CSS** para explorar as possibilidades 
 O projeto demonstra como é possível criar formas não convencionais e recortes complexos usando apenas propriedades básicas de CSS, como `border-radius`, sem a necessidade de imagens de fundo ou elementos adicionais.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/CardcomBordaInvertida-repositorio/
 
 ## 📂 Estrutura do projeto
 /InvertedBorderCard
